@@ -63,42 +63,4 @@ Edit
   }
 ]
 
-🚀 Getting Started
-Clone the repo
 
-bash
-Copy
-Edit
-git clone https://github.com/your-username/photography-website.git
-Open index.html in your browser
-
-To make the booking form work, connect to a backend (optional)
-
-📩 Booking Form Integration (Optional)
-You can connect your form to:
-
-Google Forms
-
-FormSubmit.io / Formspree / EmailJS
-
-Your own Node.js/Express backend with MongoDB/MySQL
-
-🖼️ Screenshots
-Add screenshots of your homepage, package section, and booking form here.
-
-📄 License
-This project is open-source and available under the MIT License.
-
-🙋‍♂️ Author
-Paras Kuranjekar
-📧 your.email@example.com
-🔗 LinkedIn
-
-
-
-
-Tools
-
-
-
-ChatGPT can make mistakes. Check important info. See Cookie Preferences.
