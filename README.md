@@ -21,7 +21,7 @@ A clean and modern photography portfolio and booking platform built for showcasi
 
 | Frontend        | Backend (Optional) | Styling         |
 |------------------|--------------------|-----------------|
-| HTML, CSS, JS     | Node.js / Express / PHP (optional) | Tailwind CSS or custom CSS |
+| HTML, CSS, JS     | Node.js and Express  | Tailwind CSS |
 
 ---
 
