@@ -93,22 +93,6 @@ Paras Kuranjekar
 📧 your.email@example.com
 🔗 LinkedIn
 
-yaml
-Copy
-Edit
-
----
-
-Would you like a version of this with image links and dummy data already prefilled into an HTML page too?
-
-
-
-
-
-
-
-
-Ask ChatGPT
 
 
 
