@@ -62,6 +62,7 @@ Edit
     "image": "https://images.unsplash.com/photo-1523413651479-597eb2da0ad6"
   }
 ]
+
 🚀 Getting Started
 Clone the repo
 
